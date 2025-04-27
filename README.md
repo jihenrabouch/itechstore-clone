@@ -41,10 +41,6 @@ Visit [http://localhost:3000](http://localhost:3000) in your browser to view it.
 - Cart management and checkout
 - Better animations and UI enhancements
 
-## 📸 Project Preview
-
-*(You can add a screenshot here by uploading it to GitHub and inserting it)*
-
 ---
 
 > Made with ❤️ by Jihen Ben Rabouch
