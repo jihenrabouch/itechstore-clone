@@ -1,0 +1,25 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .navbar a {
+    line-height: 3.2142857143rem;
+    max-width: 14.2857142857rem;
+    color: #000000;
+    text-decoration: none;
+    padding-left: 0.8571428571rem;
+    padding-right: 0.8571428571rem;
+    border-left: none 2px rgba(87, 87, 87, 0.57);
+}
+.title {
+  font-size: 14px;
+  font-style: normal;
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1em;
+}
+  .navbar a:hover {
+    background-color: #fff;
+  }
+  
